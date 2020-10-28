@@ -1,27 +1,29 @@
 ![](https://i.ibb.co/nBGXDMH/red.png)
-https://red-onion-restaura.firebaseapp.com/static/media/logo2.2ce2face.png
+
+<br/>
+
 # Red Onion Foods
-A single page restaurant app where people are able to select food in their cart and checkout the cart with their information
+A single page restaurant app where people are able to select food in their cart and checkout the cart with their information.
 
-🔗[Live Website](https://red-onion-bangla-restaurant.web.app/) | 🔗[Live API Server](https://red-onion-backend.herokuapp.com/)
+🔗[Live Website](https://red-onion-bangla-restaurant.web.app/) | 🔗[Live API Server](https://red-onion-backend.herokuapp.com/) | 🔗[Back-end Repository](https://github.com/toufik6815/red-onion-bangla-restaurant-server)
 
-### Features
+### Features:
 * Order food from the menu
 * Sign Up to place order
 * Pay online using your credit card
 
-### Front-end Technology : 
+### Front-end Technology: 
 * React.js
 * Bootstrap4
 * CSS3
 
-### Backend Technology
+### Backend Technology:
 * Node.js
 * Express.js
 * MongoDB
 * Firebase Athuentication 
 * Stripe.js
 
-[Back-end Repository](https://github.com/solaimanshadin/red-onion-backend)
+
 
 
