@@ -17,7 +17,7 @@ A single page restaurant app where people are able to select food in their cart 
 * Bootstrap4
 * CSS3
 
-### Backend Technology:
+### Back-end Technology:
 * Node.js
 * Express.js
 * MongoDB
